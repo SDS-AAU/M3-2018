@@ -213,7 +213,7 @@ It is widely adapted in academia and industry (Google, Netflix, Uber, CERN, Yelp
 
 
 <img width="45%" src="../media/dl_frameworks_1.jpg"/>
-<img width="45%" src="../media/dl_frameworks_2.jpg"/>
+<img width="45%" src="../media/dl_frameworks_2.png"/>
 
 So, after all, `Keras` represents a wonderful high-level starter, fast and easy implementable, and in most cases flexible enough to do whatever you feel like.
 
@@ -326,17 +326,17 @@ test_labels <- to_categorical(test_labels)
 We're now ready to train the network via `Keras` `fit()` function.
 
 ```{r}
-network %>% fit(x = train_images, 
-                y = train_labels, 
-                epochs = 5, 
-                batch_size = 128)
+#network %>% fit(x = train_images, 
+#                y = train_labels, 
+#               epochs = 5, 
+#                batch_size = 128)
 ```
 
 Two quantities are displayed during training: the loss and accuracy of the network over the training data during the subsequent epochs (new training runs after re-adjusting the weights). Notice that the emasures improve in every epoch. We quickly reach an accuracy (98.9% on the training data. Now let's check that the model performs well on the test set, too:
 
 ```{r}
-metrics <- network %>% evaluate(test_images, test_labels)
-metrics
+#metrics <- network %>% evaluate(test_images, test_labels)
+#metrics
 ```
 
 # Data representations for neural networks
