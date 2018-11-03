@@ -9,7 +9,7 @@
  * [Neural City Classification (Colab, executable)](https://colab.research.google.com/drive/1MHq7vpmDs0CIbKA2GnjexmCRDB06Gx0y) 
  
  * [Neural City Classification (Github hosted ipynb)](http://nbviewer.jupyter.org/github/SDS-AAU/M3-2018/blob/master/notebooks/Neural_City_Predict.ipynb)
- * 
+ 
  * [Training word embedding models (Github hosted ipynb with colab link)](http://nbviewer.jupyter.org/github/SDS-AAU/M3-2018/blob/master/notebooks/training_word2vec_text8.ipynb)
  
  In adittion, please watch that,the best visual explanation of the functionality of neural networks you will EVER see. Its round about 1 hour, but TOTALLY worth your time, promised!
