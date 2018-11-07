@@ -22,4 +22,4 @@ Remember, more complex != better
 
 You can evaluate on a slice of training data first
 
-As part of the submission, please also submit a csv with your prediction in the format shown in ```example_submission_from_test.csv```
+As part of the submission, please also submit a csv with your prediction in the format shown in ```example_submission_from_test.csv``
