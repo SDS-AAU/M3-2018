@@ -16,9 +16,6 @@
  
  * https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
-# M3-2018
- Module 3 - Artificial Neural Networks and Deep Learning
- 
  ## Session 5: Working with ANNs and Sequential Data
  
   * Rmarkdown Notebook not there yet...
