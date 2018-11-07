@@ -22,4 +22,4 @@
  ## Session 5: Working with ANNs and Sequential Data
  
   * Rmarkdown Notebook not there yet...
- * [Notebook (Kaggle, executable)](>>>>) 
+ * [Notebook (Kaggle, executable)](https://www.kaggle.com/danielhain/sds-2018-m3-5-working-with-sequential-data) 
