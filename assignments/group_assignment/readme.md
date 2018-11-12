@@ -26,3 +26,6 @@ Consider drawing from different data sources, incorporating various data types. 
 ### Look into existing research for inspiration
 Consider looking into research papers from conferences such as Social Informatics (Socinfo) and Computational Social Science. Some of the papers will link to GitHub repositories with data and code.
 
+
+### Use synergies
+If you plan to work with deep learning as your semester project, you are welcome to use the M3 group assignment as a warm-up.
