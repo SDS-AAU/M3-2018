@@ -29,3 +29,11 @@
  
 * [BiLSTM with self trained embedding layer](http://nbviewer.jupyter.org/github/SDS-AAU/M3-2018/blob/master/notebooks/Hatespeech_LSTM_SDS.ipynb) 
 
+ ## Session 7/8: Presentations
+
+ ## Session 9/10: Working with ANNs and Sequential Data
+
+ * [Ethics](https://www.techatbloomberg.com/blog/time-data-ethics-conversations-dinner-table/)
+ 
+ * [Ethics](https://medium.com/doteveryone/oaths-pledges-and-manifestos-a-master-list-of-ethical-tech-values-26e2672e161c) 
+
